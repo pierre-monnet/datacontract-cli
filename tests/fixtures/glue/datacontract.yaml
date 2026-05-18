@@ -16,7 +16,7 @@ schema:
     logicalType: "object"
     physicalName: "test_table"
     properties:
-      - name: "field_one"
+      - name: "field_one1"
         physicalType: "string"
         description: "Comment 1"
         logicalType: "string"
