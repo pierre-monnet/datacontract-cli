@@ -24,7 +24,7 @@ schema:
         physicalType: "int"
         logicalType: "integer"
         description: "commit "
-      - name: "field_three"
+      - name: "field_three3"
         physicalType: "timestamp"
         logicalType: "date"
       - name: "field_four"
