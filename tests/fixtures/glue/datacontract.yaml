@@ -20,7 +20,7 @@ schema:
         physicalType: "string"
         description: "Comment 1"
         logicalType: "string"
-      - name: "field_two"
+      - name: "field_two2"
         physicalType: "int"
         logicalType: "integer"
         description: "commit "
