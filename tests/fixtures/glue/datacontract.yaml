@@ -27,7 +27,7 @@ schema:
       - name: "field_three3"
         physicalType: "timestamp"
         logicalType: "date"
-      - name: "field_four"
+      - name: "field_four_PR"
         physicalType: "decimal"
         logicalType: "number"
         logicalTypeOptions:
