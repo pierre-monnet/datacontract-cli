@@ -18,7 +18,7 @@ schema:
     properties:
       - name: "field_one"
         physicalType: "string"
-        description: "Comment 123"
+        description: "Comment 1234"
         logicalType: "string"
       - name: "field_two"
         physicalType: "int"
