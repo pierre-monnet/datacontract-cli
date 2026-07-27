@@ -206,7 +206,7 @@ datacontract --version
 
 ### pip with venv
 
-Typically it is better to install the application in a virtual environment for your projects:
+Typically it is better to install the application in a virtual environment for your projects: 
 
 ```bash
 cd my-project
